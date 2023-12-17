@@ -4002,3 +4002,14 @@ input, select, textarea {
 	#quote {
 		text-align: center;
 	}
+
+#hume-image {
+		width: 100%;
+		text-align: center; /* Optional: Center the image within its container */
+	  }
+	  
+	  #hume-image img {
+		max-width: 100%;
+		height: auto;
+	  }
+	  
